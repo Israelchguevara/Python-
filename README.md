@@ -129,6 +129,3 @@ Añadir modo infinito con ranking de intentos.
 
 Exportar gráficas a PNG/PDF automáticamente.
 
-📄 Licencia
-
-MIT (o la que prefieras).
