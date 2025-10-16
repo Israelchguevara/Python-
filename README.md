@@ -1,4 +1,4 @@
-# Programación Python (Básico)-Juego de Adivinanzas
+# Juego de Adivinanzas - Programación Python (Básico)
 
 Proyecto de práctica de Python (básico). El objetivo es desarrollar un juego de adivinanza con menú principal, selección de dificultad, almacenamiento de resultados en Excel, y módulos de resumen y gráficas de partidas.
 
